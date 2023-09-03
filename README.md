@@ -1,2 +1,2 @@
 # Zetcord-Opus
-The opus.dll for ripcord client, zetcord
+the opus.dll for ripcord client, zetcord
